@@ -25,7 +25,7 @@ def get_classifier():
     X_train = scaler.transform(X_train)
     X_test = scaler.transform(X_test)
 
-    classifier = KNeighborsClassifier(n_neighbors=10)  
+    classifier = KNeighborsClassifier(n_neighbors=11)  
     classifier.fit(X_train, y_train)  
 
     return scaler, classifier
