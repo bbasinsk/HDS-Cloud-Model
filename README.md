@@ -142,6 +142,12 @@ docker build -t my-model .
     container name      location of Dockerfile
 ```
 
+To run the container, run:
+
+```{bash}
+docker run -d -p 5000:5000 my-model
+```
+
 ### Request examples
 
 #### Versicolor
