@@ -11,7 +11,7 @@ The dataset is the infamous iris dataset.
 | 7.0 | 3.2 | 4.7 | 1.4 | Iris-versicolor |
 | 6.3 | 3.3 | 6.0 | 2.5 | Iris-virginica  |
 
-![Iris Dataset](https://insightbot.blob.core.windows.net/blogimagecontainer/f3348a3b-a758-4bfd-aeff-85495b5b3f8e.jpg)
+![Iris Dataset](https://deeplearning.cms.waikato.ac.nz/img/iris.png)
 
 It consists of three species of flowers. Each flower has its own sepals and petals with a length and width.
 
